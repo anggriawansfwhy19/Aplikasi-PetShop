@@ -7,3 +7,4 @@ Di aplikasi Ini kami merancang penjualan beberapa kebutuhan seperti :
 - Rumah Kucing
 - Vitamin
 - Variasi Dll
+* Anggriawan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
